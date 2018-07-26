@@ -1,9 +1,6 @@
 # HypeCoin-Walletd-API-PHP
 HypeCoin Walletd API Wrapper in PHP
 
-### [HypeCoinWalletd (HypeWalletdAPI.php)](https://github.com/HazeDevelopment/HypeCoin-Walletd-PHP/blob/master/HypeWalletdAPI.php)
-
-
 
 ## Usage:
 
