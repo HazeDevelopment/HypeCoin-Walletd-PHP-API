@@ -46,9 +46,9 @@ $bal = $hype->getBalance();
 
 ## NOTES:
 
-~ Still in testing Phase
-~ Some commands may need to be looked over
-~ Some commands have not been added yet
+- Still in testing Phase
+- Some commands may need to be looked over
+- Some commands have not been added yet
 
 ## DEVELOPMENT:
 Edited for HazeDevelopment
